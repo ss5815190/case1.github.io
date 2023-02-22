@@ -40,7 +40,7 @@ const Nav=()=>{
 							</a>
 						</li>
 						<li>
-							<a href="https://line.me/ti/p/sinyago#~" style={{letterSpacing:"3.8px"}}>
+							<a href="https://line.me/ti/p/aKSim5eJEW" style={{letterSpacing:"3.8px"}}>
 								<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LINE_New_App_Icon_%282020-12%29.png/600px-LINE_New_App_Icon_%282020-12%29.png" 
 									style={{width:"1.5em"}}
 								alt="line"/>
@@ -65,7 +65,7 @@ const Nav=()=>{
 							</a>
 						</li>
 						<li>
-							<a href="https://line.me/ti/p/sinyago#~" style={{letterSpacing:"3.8px"}}>
+							<a href="https://line.me/ti/p/aKSim5eJEW" style={{letterSpacing:"3.8px"}}>
 								<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LINE_New_App_Icon_%282020-12%29.png/600px-LINE_New_App_Icon_%282020-12%29.png" 
 									style={{width:"1.5em"}}
 								alt="line"/>
