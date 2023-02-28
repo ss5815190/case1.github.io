@@ -1,11 +1,15 @@
 export const Room3=[
 	{
 	image:'./imgs/room3-1.jpg',
-	key:6,
+	key:9,
 	},
 	{
 	image:'./imgs/room3-2.jpg',
-	key:7,
+	key:10,
+	},
+	{
+	image:'./imgs/bathroom.jpg',
+	key:11,
 	},
 
 ]
