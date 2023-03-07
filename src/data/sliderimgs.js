@@ -20,10 +20,7 @@ export const Sliderimgs=[
 		image:'./imgs/lobby2.jpg'
 	},
 
-	{	
-		key:4,
-		image:'./imgs/k.jpg'
-	},
+	
 
 
 	
