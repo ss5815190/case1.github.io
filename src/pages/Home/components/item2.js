@@ -48,7 +48,7 @@ const Item2=({Sliderimgs})=>{
 			</div>
 			<div className="slider-dots">
 					{Sliderimgs.map((el,id)=>(
-						<div onClick={jumpto.bind(id)} className={`slider-dot ${currentId===id?"slider-dot-active":""}`}key={el.key}>
+						<div onClick={jumpto.bind(this,id)} className={`slider-dot ${currentId===id?"slider-dot-active":""}`}key={el.key}>
 						</div>		
 					))}
 				</div>
