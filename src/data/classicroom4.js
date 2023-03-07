@@ -8,7 +8,7 @@ export const Classicroom4=[
 	key:1,
 	},
 	{
-	image:'./imgs/bathroom.jpg',
+	image:'./imgs/c4-r3-bath.jpg',
 	key:2,
 	},
 

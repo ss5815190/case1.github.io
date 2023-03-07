@@ -8,7 +8,7 @@ export const Double1bed=[
 	key:4,
 },
 {
-	image:'./imgs/bathroom.jpg',
+	image:'./imgs/d1-r4-bath.jpg',
 	key:5,
 	},
 	]

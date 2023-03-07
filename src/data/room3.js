@@ -8,7 +8,7 @@ export const Room3=[
 	key:10,
 	},
 	{
-	image:'./imgs/bathroom.jpg',
+	image:'./imgs/c4-r3-bath.jpg',
 	key:11,
 	},
 
