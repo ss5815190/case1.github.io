@@ -4,6 +4,7 @@ import RoomType1 from "./components/roomType1.js";
 import RoomType2 from "./components/roomType2.js";
 import RoomType3 from "./components/roomType3.js";
 import RoomType4 from "./components/roomType4.js";
+import Notice from"./components/notice.js";
 
 import {RoomCard} from'../../data/roomCard.js';
 import {Classicroom4} from '../../data/classicroom4.js';
@@ -32,6 +33,7 @@ const Rooms=()=>{
 						<RoomType4 RoomCard={RoomCard} Double2bed={Double2bed}/>
 						{/**/}
 					</div>
+					<Notice/>
 				</div>
 				
 

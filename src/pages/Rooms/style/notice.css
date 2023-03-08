@@ -1,0 +1,17 @@
+.notice_title{
+	font-size: 2.2em;
+	display: flex;
+    justify-content: center;
+}
+.notice h3{
+	font-size: 1.5em;
+}
+.notice_grid{
+	margin-top: 50px;
+}
+.notice_grid{
+	font-size: 1.27em;
+}
+.notice_grid ul{
+	padding-inline-start: 30px
+}
