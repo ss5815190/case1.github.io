@@ -3,6 +3,18 @@ const Notice=()=>{
 	return(
 		<div className="notice">
 			<h1 className="notice_title">住宿須知</h1>
+			<div className="notice_grid">
+				<h3>匯款資訊</h3>
+				<p>
+					匯款銀行 : 高雄銀行前金分行 &nbsp;&nbsp;代號 : 016
+					<br />
+					匯款帳號 : 202102011181 &nbsp;&nbsp;戶名 : 亞歌旅館
+					<br />
+					會計聯絡 : 蔡小姐 &nbsp;&nbsp;TEL : (07)286-2933 &nbsp;&nbsp;FAX : (07)285-4113
+					<br />
+					地址 : 高雄市前金區明星街155號
+				</p>
+			</div>
 			<div className="notice_grid"><h3>訂房方式</h3>
 				<p>
 				1.請您於早上10：00〜晚上10：00打電話或是用LINE等方式訂房，

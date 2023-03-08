@@ -1,17 +1,7 @@
 import { useEffect } from "react";
+import { useLocation} from "react-router-dom";
 
 
-const ScrollToTop = () => {
-
-useEffect(() => {
-    window.history.scrollRestoration = 'manual'
-  }, []);
-
-  return null;
-};
-
-export default ScrollToTop;
-/*
 export default function ScrollToTop() {
   const { pathname } = useLocation();
 
@@ -21,8 +11,20 @@ export default function ScrollToTop() {
 
   return null;
 }
-*/
 /*
+const ScrollToTop = () => {
+
+useEffect(() => {
+    window.history.scrollRestoration = 'manual'
+    console.log("manual")
+  }, []);
+
+  return null;
+};
+
+export default ScrollToTop;
+
+
   const location = useLocation();
   useEffect(() => {
     if (!location.hash) {
